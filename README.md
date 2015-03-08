@@ -1,3 +1,5 @@
+[scroll down for english](#moses-smt-welsh--english-machine-translation)
+
 # Cyfieithu Peirianyddol Cymraeg <> Saesneg Moses-SMT
 
 Mae'r project yma yn cynnwys y cod, sgriptiau a'r ddogfennaeth gysylltiedig sy'n hwyluso defnyddio Moses-SMT ar gyfer y Gymraeg. 
